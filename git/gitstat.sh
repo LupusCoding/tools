@@ -1,3 +1,5 @@
+#!/bin/bash
+#
 # @name gitstat
 # @package tools
 # @subpackage git

@@ -1,3 +1,5 @@
+#!/bin/bash
+#
 # @name gitinit
 # @package tools
 # @subpackage git

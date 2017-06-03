@@ -1,3 +1,5 @@
+#!/bin/bash
+#
 # @name gitcp
 # @package tools
 # @subpackage git

@@ -1,3 +1,5 @@
+#!/bin/bash
+#
 # @name gittree
 # @package tools
 # @subpackage git

@@ -1,3 +1,5 @@
+#!/bin/bash
+#
 # @name gadd
 # @package tools
 # @subpackage git
